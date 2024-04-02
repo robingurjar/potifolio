@@ -61,6 +61,7 @@
   height: 550px;
   /* border: 1px dotted black; */
   margin-top: 40px;
+  margin-left: 20px;
 }
 
 .image {
@@ -78,6 +79,7 @@
   letter-spacing: 3px;
   /* border: 2px solid red; */
   margin-bottom: 40px;
+  margin-left: 20px;
 }
 
 .myname {
@@ -85,6 +87,7 @@
   font-size: 60px;
   line-height: 75px;
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 .change {
@@ -104,12 +107,14 @@
   line-height: 30px;
   padding-right: 16%;
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 .find {
   width: 306px;
   height: 115px;
   margin-top: 100px;
+  margin-left: 20px;
  
 }
 
