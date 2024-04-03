@@ -61,7 +61,7 @@
   height: 550px;
   /* border: 1px dotted black; */
   margin-top: 40px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .image {
@@ -79,7 +79,7 @@
   letter-spacing: 3px;
   /* border: 2px solid red; */
   margin-bottom: 40px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .myname {
@@ -87,7 +87,7 @@
   font-size: 60px;
   line-height: 75px;
   margin-top: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .change {
