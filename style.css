@@ -162,6 +162,8 @@
   align-items: center;
 }
 
+
+
 .box1 {
   width: 354px;
   height: 344px;
@@ -398,7 +400,7 @@
 .proj-dis a{
   text-decoration: none;
   color: #ff014f;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 line{
