@@ -1,7 +1,10 @@
+
 * {
   margin: 0px;
   padding: 0px;
 }
+
+
 
 .navbar {
   width: 100%;
@@ -715,6 +718,7 @@ i{
 .init {
   width: 266px;
   height: 55px;
+  font-size: 16px;
   border-radius: 10px;
   border: none;
   margin-top: 20px;
@@ -723,6 +727,7 @@ i{
 .form-email{
   width: 563px;
   height: 111px;
+  font-size: 16px;
   margin-top: 20px;
 }
 
@@ -730,11 +735,13 @@ i{
   width: 563px;
   height: 111px;
   margin-top: 20px;
+  font-size: 16px;
 }
 
 .email-input{
   width: 563px;
   height: 55px;
+  font-size: 16px;
   border-radius: 10px;
   border: none;
   margin-top: 20px;
@@ -743,6 +750,7 @@ i{
 .subject-input{
   width: 563px;
   height: 55px;
+  font-size: 16px;
   border-radius: 10px;
   border: none;
   margin-top: 20px
@@ -751,6 +759,7 @@ i{
 .contact-massage{
   width: 563px;
   height: 235px;
+  font-size: 16px;
   border-radius: 10px;
   margin-top: 20px
 }
