@@ -181,8 +181,30 @@ body{
   align-items: center;
 }
 
+.box1:hover{
+  color: #ffffff;
+  background-color: #DC3547;
+}
 
+.box2:hover{
+  color: #ffffff;
+  background-color: #DC3547;
+}
 
+.box3:hover{
+  color: #ffffff;
+  background-color: #DC3547;
+}
+
+.box4:hover{
+  color: #ffffff;
+  background-color: #DC3547;
+}
+
+.box5:hover{
+  color: #ffffff;
+  background-color: #DC3547;
+}
 .box2 {
   width: 354px;
   height: 344px;
@@ -295,24 +317,20 @@ body{
 
 }
 
-.icon{
-  
-  margin-bottom: 40px;
-  color: #ff014f;
-}
+
 
 .title{
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 32px;
-  color:#1e2125;
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .discription  {
   font-size: 16px;
   line-height:  28px;
-  color:#3c3e41;
+  
 }
 
 /* our project section start */
