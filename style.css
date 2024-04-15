@@ -142,6 +142,12 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: all 0.5s ease-in;
+}
+
+.apps:hover{
+  background-color: #DC3547;
+  transform: scale(1.2);
 }
 
 .sur {
@@ -178,7 +184,8 @@ body{
   background-color: #ffffff;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
+  
 }
 
 .box1:hover{
@@ -282,42 +289,65 @@ body{
 .small-box {
   width: 300px;
   height: 290px;
-  
+  transition: all 0.5s ease-in;
 }
 
-
+.small-box:hover{
+  transform: scaleY(1.1);
+}
 .small-box2 {
   width: 300px;
   height: 290px;
- 
+  transition: all 0.5s ease-in;
+}
+
+.small-box2:hover{
+  transform: scaleY(1.1);
 }
 
 .small-box3 {
   width: 300px;
   height: 290px;
- 
+  transition: all 0.5s ease-in;
+
+}
+
+.small-box3:hover{
+  transform: scaleY(1.1);
 }
 
 .small-box4 {
   width: 300px;
   height: 290px;
- 
+  transition: all 0.5s ease-in;
+
+}
+
+.small-box4:hover{
+  transform: scaleY(1.1);
 }
 
 .small-box5 {
   width: 300px;
   height: 290px;
-  
+  transition: all 0.5s ease-in;
+
+}
+
+.small-box5:hover{
+  transform: scaleY(1.1);
 }
 
 .small-box6 {
   width: 300px;
   height: 290px;
-  
+  transition: all 0.5s ease-in;
 
 }
 
-
+.small-box6:hover{
+  transform: scaleY(1.1);
+}
 
 .title{
   font-size: 30px;
@@ -406,13 +436,19 @@ body{
   
 }
 
+
 .proj-img{
   width: 294px;
   height: 221px;
   border-radius: 10px;
   margin-top: 10px;
-  
+  transition: all 0.5s ease-in;
+}
 
+
+
+.proj-img:hover{
+  transform: scale(1.1);
 }
 
 .proj-dis {
@@ -686,7 +722,7 @@ social{
   display: flex;
   justify-content: space-evenly;
   margin-top: 20px;
-  
+  transition: all 0.5s ease-in;
 }
 
 .icon{
@@ -699,10 +735,21 @@ social{
   justify-content: center;
   align-items: center;
   margin-left: 0px;
+  transition: all 0.5s ease-in;
+}
+
+.icon:hover{
+  
+  background-color: #DC3547;
+  transform: scale(1.2);
 }
 
 i{
   color: #3c3e41;  
+}
+
+i:hover{
+  color: white;
 }
 
 .contact-form{
@@ -804,4 +851,9 @@ i{
 .submit:hover{
   background-color: #DC3547;
   color: #ffffff;
+}
+
+
+.submit:active{
+  background-color: #3c3e41;
 }
