@@ -174,9 +174,9 @@ body {
   width: 100%;
   height: 422px;
   display: flex;
+  justify-content: space-around;
   align-items: center;
-  padding-left: 40px;
-  gap: 35px;
+  
 }
 
 .box1 {
