@@ -126,7 +126,7 @@
     }
 
     .cont-box2{
-        width: 350px;
+        width: 30%;
         font-size: 15px;
         flex-wrap: wrap;
         
@@ -138,6 +138,7 @@
     }
 
     .tab-box{
+        width: 100%;
         flex-wrap: wrap;
     }
 
