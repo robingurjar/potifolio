@@ -12,6 +12,7 @@
         width: 80%;
         height: 1658px;
         flex-direction: column-reverse;
+        padding-left: 0px;
         
     }
 
@@ -214,9 +215,19 @@
         text-align: start;
     }
 
+    .intro{
+        padding-left: 0px;
+    }
+    
+
     .myname{
-        font-size: 32px;
+        font-size: 28px;
         line-height: 40px;
+        padding-left: -3px;
+    }
+
+    .para{
+        padding-left: -20px;
     }
 
     .find{
@@ -255,12 +266,21 @@
     width: 345px;
 }
 
+.myproject{
+    width: 345px;
+    padding-left: 10px;
+}
+
+.proj-img:hover {
+    transform: scale(.9);
+  }
+
 .proj-heading h2{
     font-size: 34px;
 }
 
 .container3{
-    width: 345px;
+    width: 365px;
     height: 1500px;
 }
 
@@ -270,9 +290,9 @@
 }
 
 .projects{
+    width: 345px;
     height: 1500px;
-    justify-content: center;
-    align-items: center;
+    padding-left: 22px;
 }
 
 
