@@ -147,6 +147,13 @@
         margin-left: 10px;
     }
 
+    .cont-box{
+        width: 20%;
+        height: 70%;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
 
 
 }
@@ -168,4 +175,108 @@
     .projects{
         height: 1000px;
     }
+}
+
+@media screen and (max-width: 360px) {
+
+
+    .img{
+        width: 345px;
+        height: 473px;
+        
+    }
+
+    .image{
+        width: 345px;
+        height: 473px;
+        margin-top: 0px;
+    }
+
+    .intro{
+        width: 345px;
+        height: 473px;
+    }
+
+    .welcome{
+        height: 473px;
+    }
+
+    .container{
+        height: 1000px;
+    }
+
+    .small-container{
+        width: 345px;
+        height: 1000px;
+        margin-top: 0px;
+        justify-content: flex-start;
+        align-items: start;
+        text-align: start;
+    }
+
+    .myname{
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .find{
+        width: 250px;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+.social-share {
+    width: 250px;
+    margin-left: 0px;
+}
+
+.container2{
+    height: 2000px;
+}
+
+.small-box h4{
+    font-size: 24px;
+    line-height: 75px;
+}
+
+.small-box p{
+    font-size: 18px;
+    
+}
+
+.Do h2{
+    font-size: 34px;
+}
+
+
+/* my pages */
+
+.proj-heading{
+    width: 345px;
+}
+
+.proj-heading h2{
+    font-size: 34px;
+}
+
+.container3{
+    width: 345px;
+    height: 1500px;
+}
+
+.proj-container{
+    width: 345px;
+    height: 1500px;
+}
+
+.projects{
+    height: 1500px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
 }
