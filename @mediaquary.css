@@ -267,7 +267,7 @@
 }
 
 .myproject{
-    width: 345px;
+    width: 360px;
     padding-left: 10px;
 }
 
@@ -285,17 +285,194 @@
 }
 
 .proj-container{
-    width: 345px;
+    width: 360px;
     height: 1500px;
 }
 
 .projects{
-    width: 345px;
+    width: 360px;
     height: 1500px;
-    padding-left: 22px;
+    padding-left: 12px;
+}
+
+/* resume section start */
+
+.resume-container{
+    width: 360px;
+    height: 1200px;
+}
+
+.resume-contant{
+    width: 360px;
+    height: 1200px;
+   
+}
+
+.tab{
+
+    width: 360px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    padding: 1px;
+    margin: 0px;
+}
+
+.tablinks{
+    margin-bottom: 10px;
+}
+
+#tab1{
+    width: 360px;
+    height: 500px;
+   
+
+}
+
+.tab-box{
+    width: 335px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+.cont-box2{
+    width: 295px;
+    margin-bottom: 10px;
+  
+}
+
+.tab2{
+    width: 360px;
+    height: 500px;
+}
+
+.cont-box{
+    width: 250px;
+    height: 250px;
+    margin-bottom: 10px;
 }
 
 
+/* contact section */
+
+.contact-heading{
+    width: 341px;
+    height: 64px;
+}
+
+.contact-title{
+    font-size: 34px;
+}
+
+.contact-about{
+    width: 341px;
+}
+
+
+.contact-image{
+    height: 190px;
+    width: 305px;
+}
+
+.contact-container{
+    width: 360px;
+    height: 1700px;
+}
+
+.cont-small{
+    width: 360px;
+    height: 1700px;
+    justify-content: space-evenly;
+}
+
+.contact-area{
+    width: 360px;
+    justify-content: space-between;
+}
+
+.social-area{
+    width: 305px;
+    height: 106px;
+    
+}
+
+.social-icon{
+    justify-content: flex-start;
+}
+
+.icon{
+    margin-left: 10px;
+}
+
+.contact-form{
+    width: 341px;
+}
+
+.contact-form-area{
+    width: 335px;
+    height: 838px;
+}
+
+.contact-form{
+    width: 335px;
+    height: 838px;
+}
+
+.form-input {
+    flex-direction: column;
+    width: 335px;
+    height: 200px;
+}
+
+.init{
+    width: 305px;
+}
+
+.form-email{
+    width: 335px;
+   
+    border: 1px solid black;
+}
+
+.email-input{
+    width: 305px;
+    margin-left: 13px;
+}
+
+.form-subject{
+    width: 335px;
+}
+
+.subject-input{
+    width: 305px;
+    margin-left: 13px;
+}
+
+.form-title{
+    margin-left: 13px;
+}
+
+.form-massage{
+    width: 335px;
+
+}
+
+.contact-massage{
+    width: 305px;
+    margin-left: 13px;
+}
+
+.submit{
+    width: 312px;
+    margin-left: 13px;
+}
 
 
 
