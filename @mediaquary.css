@@ -376,6 +376,7 @@
 }
 
 
+
 .contact-image{
     height: 190px;
     width: 305px;
@@ -438,7 +439,7 @@
 .form-email{
     width: 335px;
    
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .email-input{
