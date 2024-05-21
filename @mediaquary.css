@@ -263,11 +263,11 @@
 /* my pages */
 
 .proj-heading{
-    width: 345px;
+    width: 335px;
 }
 
 .myproject{
-    width: 360px;
+    width: 337px;
     
 }
 
@@ -276,7 +276,7 @@
   }
 
 .proj-heading h2{
-    font-size: 34px;
+    font-size: 30px;
 }
 
 .container3{
@@ -292,7 +292,7 @@
 .projects{
     width: 400px;
     height: 1500px;
-    padding-left: 12px;
+    padding-right: 20px;
 }
 
 /* resume section start */
@@ -343,7 +343,7 @@
 }
 
 .cont-box2{
-    width: 325px;
+    width: 300px;
     margin-bottom: 10px;
   
 }
@@ -372,7 +372,7 @@
 }
 
 .contact-about{
-    width: 341px;
+    width: 335px;
     
 }
 
