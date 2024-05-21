@@ -128,14 +128,14 @@ body {
   line-height: 30px;
   padding-right: 16%;
   margin-top: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .find {
   width: 306px;
   height: 115px;
   margin-top: 100px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .find-heading{
@@ -315,12 +315,14 @@ body {
 }
 
 .small-box {
-  width: 170px;
-  height: 150px;
-  transition: all 0.5s ease-in;
+  width: 230px;
+  height: 170px;
+  transition: all 0.3s ease-in;
   padding: 10px;
   /* border: 1px solid; */
   overflow-wrap: break-word;
+  /* text-align: center; */
+  margin-left: 10px;
 }
 
 .small-box:hover {
@@ -377,7 +379,7 @@ body {
 } */
 
 .title {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 500;
   line-height: 16px;
   margin-top: 20px;
@@ -386,6 +388,10 @@ body {
 
 .discription{
   white-space: wrap;
+}
+
+.picture{
+  text-align: center;
 }
 
 /* our project section start */
@@ -442,8 +448,8 @@ body {
 }
 
 .myproject {
-  width: 354px;
-  height: 404px;
+  width: 314px;
+  height: 355px;
   background-color: #ffffff;
   border-radius: 10px;
   /* border: 2px solid black; */
@@ -456,8 +462,10 @@ body {
 
 .proj-box {
   width: 294px;
-  height: 404px;
+  height: 355px;
   flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
 
   /* border: 2px dashed black; */
 }
@@ -467,7 +475,7 @@ body {
   height: 221px;
   border-radius: 10px;
   margin-top: 10px;
-  transition: all 0.5s ease-in;
+  transition: all 0.3s ease-in-out;
   /* border: 1px solid ; */
 }
 

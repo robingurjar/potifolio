@@ -178,7 +178,7 @@
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
 
 
     .img{
@@ -280,17 +280,17 @@
 }
 
 .container3{
-    width: 365px;
+    width: 400px;
     height: 1500px;
 }
 
 .proj-container{
-    width: 360px;
+    width: 400px;
     height: 1500px;
 }
 
 .projects{
-    width: 360px;
+    width: 400px;
     height: 1500px;
     padding-left: 12px;
 }
@@ -298,19 +298,19 @@
 /* resume section start */
 
 .resume-container{
-    width: 360px;
+    width: 400px;
     height: 1200px;
 }
 
 .resume-contant{
-    width: 360px;
+    width: 400px;
     height: 1200px;
    
 }
 
 .tab{
 
-    width: 360px;
+    width: 400px;
     height: 180px;
     display: flex;
     flex-direction: column;
@@ -343,7 +343,7 @@
 }
 
 .cont-box2{
-    width: 295px;
+    width: 335px;
     margin-bottom: 10px;
   
 }
@@ -383,12 +383,12 @@
 }
 
 .contact-container{
-    width: 360px;
+    width: 400px;
     height: 1700px;
 }
 
 .cont-small{
-    width: 360px;
+    width: 400px;
     height: 1700px;
     justify-content: space-evenly;
 }
